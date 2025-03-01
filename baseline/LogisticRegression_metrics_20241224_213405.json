@@ -1,0 +1,6 @@
+{
+    "accuracy": 0.736,
+    "f1_score": 0.7379219060225016,
+    "model_name": "LogisticRegression",
+    "timestamp": "2024-12-24 21:34:05"
+}

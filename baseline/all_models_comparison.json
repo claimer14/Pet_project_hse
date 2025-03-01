@@ -1,0 +1,10 @@
+{
+    "LogisticRegression": {
+        "accuracy": 0.736,
+        "f1_score": 0.7379219060225016
+    },
+    "SVM": {
+        "accuracy": 0.7346666666666667,
+        "f1_score": 0.7381578947368421
+    }
+}
